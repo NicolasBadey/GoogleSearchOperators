@@ -1,0 +1,12 @@
+{
+  "name": "expertissim/google-search-operators",
+  "type": "PHP lib",
+  "description": "abstraction and parser for create and use search based on Google Search Operators systems",
+
+  "require": {
+    "php": ">=5.5"
+  },
+  "autoload": {
+    "psr-4": { "Expertissim\\GoogleSearchOperators\\": "" }
+  }
+}
