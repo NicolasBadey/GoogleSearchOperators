@@ -1,7 +1,17 @@
 {
   "name": "expertissim/google-search-operators",
-  "type": "PHP lib",
+  "type": "library",
+  "keywords": ["search","google"],
   "description": "abstraction and parser for create and use search based on Google Search Operators systems",
+  "license": "MIT",
+
+  "authors": [
+    {
+      "name": "Nicolas Badey",
+      "email": "nicolasbadey@gmail.com",
+      "role": "CTO"
+    }
+  ],
 
   "require": {
     "php": ">=5.5"
